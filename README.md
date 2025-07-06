@@ -73,3 +73,7 @@ Early warning and preparedness
 
 Public and administrative policy support
 
+Screenshots /Demo :
+https://github.com/Uzma-nazneen/Telangana-Weather-Data-Analysis/blob/main/Rainfall%20Analysis%20.png
+
+
